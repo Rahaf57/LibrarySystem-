@@ -1,5 +1,4 @@
 
-https://github.com/Rahaf57/LibrarySystem-/assets/86688588/e5bed1ba-bfeb-4ebc-82a9-3957273d4c7a
 # Django REST Framework Library Management System
 
 ## Overview
@@ -71,7 +70,6 @@ https://github.com/Rahaf57/LibrarySystem-/assets/86688588/91b0d06c-5ba7-4b92-b19
 
 
 
-https://github.com/Rahaf57/LibrarySystem-/assets/86688588/3db74517-9f01-4d05-a2dc-4bdfd4ab6e6f
 
 
 
