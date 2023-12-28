@@ -1,3 +1,5 @@
+
+https://github.com/Rahaf57/LibrarySystem-/assets/86688588/e5bed1ba-bfeb-4ebc-82a9-3957273d4c7a
 # Django REST Framework Library Management System
 
 ## Overview
@@ -62,6 +64,17 @@ To run the project locally, follow these steps:
 
 ## Admin Panel:
 ![image](https://github.com/Rahaf57/LibrarySystem-/assets/86688588/2835c595-7963-49ca-a139-d2886ce98d5e)
+
+Demo for Admin Panel:
+
+https://github.com/Rahaf57/LibrarySystem-/assets/86688588/91b0d06c-5ba7-4b92-b19f-5d268e907eb0
+
+
+
+https://github.com/Rahaf57/LibrarySystem-/assets/86688588/3db74517-9f01-4d05-a2dc-4bdfd4ab6e6f
+
+
+
 
 Visit [http://localhost:8000/admin/](http://localhost:8000/admin/) to access the admin panel.
 
