@@ -64,7 +64,7 @@ To run the project locally, follow these steps:
 ## Admin Panel:
 ![image](https://github.com/Rahaf57/LibrarySystem-/assets/86688588/2835c595-7963-49ca-a139-d2886ce98d5e)
 
-Demo for Admin Panel:
+## Demo for Admin Panel:
 
 https://github.com/Rahaf57/LibrarySystem-/assets/86688588/91b0d06c-5ba7-4b92-b19f-5d268e907eb0
 
